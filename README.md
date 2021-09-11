@@ -1,5 +1,5 @@
 # Data Analytics and Data Science Portfolio
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks
+Repository containing portfolio of data analytics and data science projects completed by me for course, self learning, and hobby purposes. Presented in the form of iPython Notebooks
 
 - [SQL Query Using Python](https://github.com/kurniadit/Practice-Case-Python/blob/main/Kurnia%20Aditia_Python.ipynb): Create SQL query in Python using sqlite library about simple transaction data.
 - [Descriptive Analytics NBA Teams](https://github.com/kurniadit/Practice-Case-Statistics/blob/main/Kurnia%20Aditia_Statistics.ipynb): Describing NBA teams and players from season 67. This analysis wants to know about the summary for every player and team, such as the best team, the best player, etc.
