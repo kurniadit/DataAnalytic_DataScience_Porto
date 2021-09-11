@@ -9,4 +9,3 @@ Repository containing portfolio of data science projects completed by me for aca
 - [Text Classification about News Topics](https://github.com/kurniadit/DataSciencePorto/blob/main/Datablade_Practice_Case_Text_Classification%20edit%20adit.ipynb): Identify 3 news topics (business, sport, & lifestyle) from Indonesian portal news using 3 algorithms of supervised learning and compare their performance.
 - [Predicting Estimate Time Arrival (ETA) in Toronto](https://github.com/kurniadit/DataSciencePorto/blob/main/Toronto_Travel_Time_Prediction_Practice_Case_DS1.ipynb): Predicting ETA from Toronto time travel data using supervised learning.
 - [Mall Customer Clustering](https://github.com/kurniadit/DataSciencePorto/blob/main/Practice_Case_Unsupervised_Learning_DS1.ipynb): Analyze mall customer data and assign them to several groups based on the best clustering algorithm result.
-- 
